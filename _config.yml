@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               Perth Learn to Code
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://learntocodemeetup.github.io/poole/
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              John Nguyen
+  url:               http://www.niiteki.io
+  email:             admin@niiteki.io
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/learntocodemeetup/poole
